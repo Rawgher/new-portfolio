@@ -1,0 +1,27 @@
+.iconImg {
+  width: 100px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.expressLogo {
+  width: 190px;
+  margin-right: -20px;
+  margin-left: 0px;
+}
+
+.reactLogo {
+  width: 190px;
+  margin-right: -20px;
+  margin-left: -20px;
+}
+
+button:focus {
+  display: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .expressLogo {
+    margin-left: -30px;
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 22,
+    "name": "One Stop Code Shop",
+    "image": "./images/final_code_shop.png",
+    "description": "This is the Full Stack Mern App containing the combined version of One Stop Code Shop and it's associated forum. Users will be able to complete a consolidated coding search and use our forum to get help from the community. Username: demo Password: demo",
+    "techUsed": "React JS, CSS, Node JS, Express",
+    "githubURL": "https://github.com/Rawgher/OSCS",
+    "deployedURL": "https://onestopcodeshop.herokuapp.com/",
+    "alt": "One Stop Code Shop - Final"
+  },
+  {
+    "id": 24,
+    "name": "NYT React",
+    "image": "./images/nyt.png",
+    "description": "An application that utilizes the New York Times API to pull articles from the users choice of topic and date range. The user can then save an article to a mongo database, or delete the article.",
+    "githubURL": "https://github.com/Rawgher/NYT_React_Search",
+    "deployedURL": "https://peaceful-headland-96719.herokuapp.com/",
+    "alt": "NYT React"
+  }
+]
